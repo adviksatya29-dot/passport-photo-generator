@@ -1,5 +1,6 @@
-flask
-pillow
+Flask
 opencv-python
-rembg
 numpy
+Pillow
+rembg
+gunicorn
